@@ -11,7 +11,7 @@ Install from Google Play Store.
 
 ---
 
-### 2. Install packages
+### 2. Install packages (from Termux)
 ```bash
 pkg update && pkg upgrade
 pkg install git openssh
@@ -19,7 +19,7 @@ pkg install git openssh
 
 ---
 
-### 3. Grant storage permission
+### 3. Grant storage permission (from Termux)
 ```bash
 termux-setup-storage
 # Tap Allow when dialog appears
@@ -27,7 +27,7 @@ termux-setup-storage
 
 ---
 
-### 4. Generate SSH key
+### 4. Generate SSH key (from Termux)
 ```bash
 ssh-keygen -t ed25519 -C "android-zettelkasten"
 # Press Enter for all prompts
@@ -44,7 +44,7 @@ cat ~/.ssh/id_ed25519.pub
 
 ---
 
-### 6. Test SSH auth
+### 6. Test SSH auth (from Termux)
 ```bash
 ssh -T git@github.com
 # Expected: Hi drsarutobi8! You've successfully authenticated...
@@ -52,7 +52,7 @@ ssh -T git@github.com
 
 ---
 
-### 7. Set git identity
+### 7. Set git identity (from Termux)
 ```bash
 git config --global user.email "your@email.com"
 git config --global user.name "Your Name"
@@ -60,7 +60,7 @@ git config --global user.name "Your Name"
 
 ---
 
-### 8. Clone repo into vault location
+### 8. Clone repo into vault location (from Termux)
 ```bash
 # Clone to temp location first
 git clone https://github.com/yourusername/zettelkasten.git ~/ztk-tmp
@@ -81,7 +81,7 @@ git checkout README.md
 
 ---
 
-### 9. Keep remote as HTTPS (required for plugin)
+### 9. Keep remote as HTTPS (required for plugin) (from Termux)
 ```bash
 git remote -v
 # Should show https://github.com/... — leave it as is
@@ -91,7 +91,7 @@ git remote set-url origin https://github.com/yourusername/zettelkasten.git
 
 ---
 
-### 10. Create `.gitignore`
+### 10. Create `.gitignore` (from Termux)
 ```bash
 cat > .gitignore << 'EOF'
 .obsidian/workspace.json
