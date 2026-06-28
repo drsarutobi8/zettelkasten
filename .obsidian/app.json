@@ -1,4 +1,8 @@
 {
   "attachmentFolderPath": "Assets",
-  "newFileLocation": "root"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Fleeting",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true
 }
