@@ -6,11 +6,15 @@ citation key: marshallgoldsmithWhatGotYou2007
 ---
 
 ## Core argument
-One line in your own words — what is the book really about?
+How to change yourself to be a better person
 
 ## Pages worth a permanent note
 - p.27 - three note types: fleeting, literature, permanent
 - p.x  - 
 - p.x  - 
 
+## Summary
+#### **Why Change?**
+* Money, Status, Power, Popularity, etc
+*
 ## My questions / disagreements
