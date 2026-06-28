@@ -1,0 +1,4 @@
+- Be myself - I have utilized my best skills while force to learn & improve to survive
+- Fast feedback - if customer complains, request, or suggest - you got the message directly with least distorted 
+- Less burden mentally, financially. You can make bold move & tolerate obstacles
+- With minimum resources, You are forced to be more optimized in systematic way. For example how to bill, how to manage late payments 
