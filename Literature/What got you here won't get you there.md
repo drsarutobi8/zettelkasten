@@ -1,5 +1,5 @@
 ---
-title: What got you here won't get you there: how successful people become even more successful
+title: "What got you here won't get you there: how successful people become even more successful"
 author: Marshall Goldsmith
 year: 2007
 citation key: marshallgoldsmithWhatGotYou2007

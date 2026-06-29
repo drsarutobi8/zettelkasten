@@ -1,5 +1,5 @@
 ---
-title: How to Take Smart Notes
+title: "How to Take Smart Notes: one simple technique to boost writing, learning and thinking"
 author: Sönke Ahrens
 year: 2022
 citation key: ahrensHowTakeSmart2022
