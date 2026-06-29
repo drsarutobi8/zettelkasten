@@ -17,7 +17,7 @@ we double down on the same habits even when they stop working
 or start hurting others. The very confidence that drove success 
 becomes the barrier to the next level.
 
-## Why It matters to me/What can I do about it
+## Why It matters to me/What should I do about it
 As a founder, I attribute BizVelocity's survival to my 
 technical judgment and directness. But those same traits 
 may be limiting how my team operates without me.
