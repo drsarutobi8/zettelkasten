@@ -9,7 +9,8 @@ citation key: cevoliniForgettingMachinesKnowledge2016
 Chapter 12 - Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine - by Johannes F.K. Schmidt
 
 ## Pages worth a permanent note
-- p.291 - 12.2 Niklas Luhmann’s Card Index
+- p.292 - 12.2 Niklas Luhmann’s Card Index is a result of his reading notes, his own wisdom, and his ideas of next projects.
+- p.293 - steps of collection	
 	- **Step 1 — Read with the slip box in mind**  - pattern-matching against existing notes. **Step 2 — Raw jottings**  -  Keywords + page numbers + possibly a note of _which existing card_ this connects to. 
 	- **Step 3 — Sit down with both literatures** The new permanent note is written at the intersection
 
